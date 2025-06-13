@@ -1,0 +1,10 @@
+dockerignore
+CopyEdit
+data/
+*.dblwr
+*.log
+__pycache__/
+*.pyc
+.env
+.git/
+*.sqlite3
